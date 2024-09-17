@@ -43,7 +43,7 @@
               pkgsFor.${system}.glib
               pkgsFor.${system}.bluez-tools
               pkgsFor.${system}.grimblast
-              pkgsFor.${system}.gpu-screen-recorder
+              # pkgsFor.${system}.gpu-screen-recorder
               pkgsFor.${system}.brightnessctl
               pkgsFor.${system}.gnome.gnome-bluetooth
               pkgsFor.${system}.python3
