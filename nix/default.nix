@@ -14,7 +14,7 @@
   bluez,
   bluez-tools,
   grimblast,
-  gpu-screen-recorder,
+  # gpu-screen-recorder,
   networkmanager,
   brightnessctl,
   matugen,
